@@ -1,0 +1,5 @@
+C:\Users\andre\Desktop\Just Coding\C#\WindowsFormsApplication1.exe
+C:\Users\andre\Desktop\Just Coding\C#\WindowsFormsApplication1.dll
+C:\Users\andre\Desktop\Just Coding\C#\WindowsFormsApplication1.deps.json
+C:\Users\andre\Desktop\Just Coding\C#\WindowsFormsApplication1.runtimeconfig.json
+C:\Users\andre\Desktop\Just Coding\C#\WindowsFormsApplication1.pdb
