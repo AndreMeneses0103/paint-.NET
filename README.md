@@ -23,7 +23,7 @@ Paint .NET is a project that allows the user to draw a lot of formats selecting 
 
 ## How to Install
 
-To install this project, you just need to download the zip and run this file:
+To use this project, you just need to download the zip and run this file:
 
 ```bash
   Paint-.NET.exe
